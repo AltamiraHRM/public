@@ -1,5 +1,6 @@
 7zip.7zip
 Adobe.Acrobat.Reader.64-bit
+AnyDeskSoftwareGmbH.AnyDesk
 Cisco.CiscoWebexMeetings
 DominikReichl.KeePass
 dotPDN.PaintDotNet
