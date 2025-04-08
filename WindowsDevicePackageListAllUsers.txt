@@ -1,0 +1,16 @@
+7zip.7zip
+Mozilla.Firefox
+Notepad++.Notepad++
+Microsoft.Office
+Microsoft.OneDrive
+dotPDN.PaintDotNet
+Adobe.Acrobat.Reader.64-bit
+Google.Chrome
+PuTTY.PuTTY
+WinMerge.WinMerge
+WinSCP.WinSCP
+DominikReichl.KeePass
+Cisco.CiscoWebexMeetings
+Zoom.Zoom.EXE
+Microsoft.VisualStudioCode
+Microsoft.Teams
